@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... JavaScript, TypeScript, React and Next.js
+- 🌱 I’m currently learning ... JavaScript, TypeScript, Lit, React and Next.js
 
 <!--
